@@ -170,6 +170,9 @@ article h2{
   flex-direction: column;
   gap: 20px;
 }
+.linked{
+  text-decoration: none;
+}
 .projecto{
   display: flex;
   flex-direction: column;
